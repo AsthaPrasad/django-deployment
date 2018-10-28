@@ -4,3 +4,11 @@ body {
   background-color: black;
   color:white;
 }
+
+.smallInput{
+  width:35%
+}
+
+.align{
+  margin-left: 1rem;
+}
